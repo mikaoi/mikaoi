@@ -1,6 +1,5 @@
 # Hello! I'm Mika! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  🫶
-
-🧝‍♀️ She / Her
+#### She / Her
 
 I ❤️ Front-End Development 
 <img align="right" width="300px" src="https://media2.giphy.com/media/DoIquD1MhDGMw/giphy.gif?cid=ecf05e478tr52xdve6qaq3yczk8bly7t9kuh9zmzv0ybtg2a&rid=giphy.gif&ct=g)">
