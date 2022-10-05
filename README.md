@@ -37,6 +37,6 @@ I ❤️ Front-End Development
 
 ## Stats
 
-<a href="https://app.daily.dev/mikaoi"><img src="https://api.daily.dev/devcards/7102eae86671425689fc11a988e25c2e.png?r=qct" width="400" alt="mika's Dev Card"/></a>
+<a href="https://app.daily.dev/mikaoi"><img src="https://api.daily.dev/devcards/7102eae86671425689fc11a988e25c2e.png?r=qct" width="300" alt="mika's Dev Card"/></a>
 
 
