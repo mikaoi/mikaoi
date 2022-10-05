@@ -2,14 +2,14 @@
 #### She / Her
 
 I ❤️ Front-End Development 
-<img align="right" width="300px" src="https://media2.giphy.com/media/DoIquD1MhDGMw/giphy.gif?cid=ecf05e478tr52xdve6qaq3yczk8bly7t9kuh9zmzv0ybtg2a&rid=giphy.gif&ct=g)">
+<img align="right" width="350px" src="https://media2.giphy.com/media/DoIquD1MhDGMw/giphy.gif?cid=ecf05e478tr52xdve6qaq3yczk8bly7t9kuh9zmzv0ybtg2a&rid=giphy.gif&ct=g)">
 
 :computer: Self-Tought Front-End Product Engineer
 
 🖖 React afficiando | 🔐 Web3 Learner | ☕️ Coffe Lover | 🌵 Agave Nanny
 
 
-## My Tech Stack! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+<!-- ## My Tech Stack! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -33,7 +33,7 @@ I ❤️ Front-End Development
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000) -->
 
 ## Stats
 
