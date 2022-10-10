@@ -8,7 +8,7 @@ Hi, I'm Mika!
 
 
 ```
-I-am-mikaoigithub
+mikaoigithub
 -------------------------
 💻 I am a self taught Full Stack Developer 
 📝 I have a strong interest in Front-End, and UI/UX 
